@@ -24,7 +24,7 @@ To pull data from different tables into one, we'll first work on SQL. SQL will b
 
 
   /* QUERY TO PULL DATA FROM DIFFERENT OTHER TABLES */
-  Refer to this link below-:
+  Refer to this link -:
   [Netflix_analysis.txt](https://github.com/sb-94/Netflix_data_analysis/files/10334743/Netflix_analysis.txt)
 
   
