@@ -23,7 +23,7 @@ The data exploration, cleaning, removing any redundancies are done using SQL, Ex
 To pull data from different tables into one, we'll first work on SQL. SQL will be used to gather the data and analyze the data. 
 
 
-  QUERY TO PULL DATA FROM DIFFERENT OTHER TABLES:
+  /* QUERY TO PULL DATA FROM DIFFERENT OTHER TABLES */
   
   SELECT 
   ord.order_id,
